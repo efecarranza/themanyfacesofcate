@@ -1,0 +1,59 @@
+body {
+    font-family: Helvetica;
+    background-image: url("logo.png");
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+    background-color: #7bc143;
+    font-size: 64px;
+    color: #fff;
+}
+
+.picture {
+    height: 505px;
+    width: 100%;
+}
+
+.picture img {
+    display: block;
+    width: 375px;
+    height: 505px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box-text-center {
+    width: 600px;
+    height:150px;
+    text-align: center;
+    background-color: #7bc143;
+    margin: 0 auto;
+    border: 2px solid #000;
+    border-radius: 8px;
+}
+
+.verb {
+    height: 70px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.button {
+    height: 60px;
+    width: 300px;
+    margin: 0 auto;
+    background-color: rgba(236, 238, 239, 0.88);
+    border: 2px solid #000;
+    border-radius: 8px;
+    font-size: 48px;
+    color: #455560;
+}
+
+.button:hover {
+    height: 65px;
+    width: 310px;
+    font-size: 52px;
+}
